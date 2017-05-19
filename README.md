@@ -21,7 +21,7 @@
 ※ Login
 * `/login <password>`
 * `/register <password> <password>`
-* `/unregister <password>``
+* `/unregister <password>`
 * `/changepassword <oldpassword> <newpassword>`
 * `/logout`
 
